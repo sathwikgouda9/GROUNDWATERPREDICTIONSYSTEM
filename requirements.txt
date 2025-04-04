@@ -1,0 +1,14 @@
+datetime
+numpy
+pandas
+plotly
+streamlit
+pydeck
+scikit-learn
+xgboost
+tensorflow
+statsmodels
+folium
+streamlit_folium
+geopy
+scipy
